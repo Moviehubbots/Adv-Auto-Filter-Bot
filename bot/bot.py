@@ -18,13 +18,13 @@ class Bot(Client):
     def __init__(self):
         super().__init__(
             BOT_SESSION,
-            api_hash=API_HASH,
-            api_id=APP_ID,
+            api_hash=5820bc246505e0ff60af5391d649f9a6,
+            api_id=8406611,
             plugins={
                 "root": "bot/plugins"
             },
             workers=4,
-            bot_token=BOT_TOKEN
+            bot_token=5096855002:AAHmLn_vnq7OLXxAs6qR8hOalJMqqL6hmpg
         )
         self.LOGGER = LOGGER
 
