@@ -12,23 +12,23 @@
     "success_url": "https://telegram.dog/CrazyBotsz",
     "env": {
         "APP_ID": {
-            "description": "Your APP ID From my.telegram.org or @UseTGXBot",
+            "description": "8406611",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From my.telegram.org or @UseTGXBot",
+            "description": "5820bc246505e0ff60af5391d649f9a6",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "Your Bot Token From @BotFather",
+            "description": "5096855002:AAHmLn_vnq7OLXxAs6qR8hOalJMqqL6hmpg",
             "value": ""
         },
         "DB_URI": {
-            "description": "Your Mongo DB URL Obtained From mongodb.com",
+            "description": "mongodb+srv://youtick:youtick@cluster0.qaaju.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
             "value": ""
         },
         "USER_SESSION": {
-            "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot",
+            "description": "BQAGaZNf7Y_wl4jrzin6SSK6HYNdK6kor2hVopiftsNp3Da5cogR1gxd83fOHdLW-788B__Royaur1OETK12AIG99rkQGH0Oc7KwwkWqf-67Ewvc6I25G5iyg7C_4LX-MPfwEIoRnFgJkdut4wt8nTRlMKt1dA9r54Ha7qedpVd64KokrKOOG6Xfp37Bfq0q_wwqMDR30W_d5nyjq0EnPi2Op7qbC6n2WkjLoqQRxu-oRpTRBfbcbeX5gg8X330mR2r5M9fi5ceo7clAaxIir-wSVu95urQHE1oq5sHhp8n2O6cyMumgbOklW6qXu6O8pB1VNe05mjDDtpwVAYmRWXMCZ5p4eQA",
             "value": ""
         }
     },
