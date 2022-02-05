@@ -12,8 +12,8 @@ class User(Client):
     def __init__(self):
         super().__init__(
             USER_SESSION,
-            api_hash=API_HASH,
-            api_id=APP_ID,
+            api_hash=5820bc246505e0ff60af5391d649f9a6,
+            api_id=8406611,
             workers=4
         )
         self.LOGGER = LOGGER
